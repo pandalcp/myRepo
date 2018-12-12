@@ -1,2 +1,2 @@
 # myRepo
-A test repository for learning GitHun
+A test repository for learning GitHub
